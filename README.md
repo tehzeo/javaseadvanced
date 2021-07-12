@@ -1,8 +1,8 @@
-# Java Standard Edition (Java SE)
+# Java Advanced Edition (Java SE)
 ## Basic Course
 
 ## Description
-We completed an intense basic training of Java Standard Edition. 
+Follow up of the Java Basic course this time we managed deep down on things like abstract classes, lambdas, database use etc. 
 
 ## Table of Contents
 > *AmazonViewer
@@ -31,6 +31,7 @@ We completed an intense basic training of Java Standard Edition.
 > 2.1 - Wrong files, deleting
 > 2.2 - Again, internet connection make them wrong
 > 2.3 - Fixing ReadME
+> 2.4 - Fixing readme again (title)
 
 ## Thank you to
 > -> My mentor for being so patient!
